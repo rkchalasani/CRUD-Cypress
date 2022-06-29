@@ -1,0 +1,43 @@
+img {
+  width: 100px;
+}
+.maindiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+table {
+  line-height: 40px;
+  border: 1px solid black;
+  color: black;
+}
+.para {
+  padding: 2rem;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+}
+.buttondiv {
+  text-align: center;
+  padding-top: 3%;
+}
+.formdiv {
+  display: flex;
+  flex: 1;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 2%;
+  text-align: left;
+}
+.tablediv {
+  display: flex;
+  flex: 1;
+}
+.maincontainer {
+  display: flex;
+  flex: 1;
+}
+.DeleteComponent {
+  margin-top: 2%;
+}
